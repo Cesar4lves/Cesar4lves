@@ -26,7 +26,7 @@ Paralelamente, estudo **cibersegurança** porque acredito que toda aplicação d
 
 <br>
 
-- **Foco atual**: HTML semântico + CSS avançado + JS básico/intermediário
+- **Foco atual**: HTML semântico + CSS intermediário + JS básico/intermediário
 - **Paralelo**: Fundamentos de cibersegurança, redes, terminal Linux, ethical hacking introdutório
 
 <br>
