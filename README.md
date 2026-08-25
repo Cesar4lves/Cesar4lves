@@ -1,48 +1,61 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Cesar!;Aprendendo+desenvolvimento+web;HTML+•+CSS+•+JavaScript;" alt="Typing SVG" />
-</div>
+## 👨‍💻 Sobre mim
 
-<br>
+Sou estudante de **Desenvolvimento de Sistemas**, atualmente focado no aprendizado de **Java e desenvolvimento backend**.
 
-## Sobre mim
-Estudante apaixonado por tecnologia, atualmente focado em **desenvolvimento web full-stack iniciante**.
+Estou construindo minha base em programação através de estudos acadêmicos e projetos pessoais, buscando evoluir gradualmente do conhecimento dos fundamentos para o desenvolvimento de aplicações completas.
 
-Estou construindo uma base sólida em:
-- **HTML5** semântico
-- **CSS3** moderno (Flexbox, Grid, animações, responsividade, dark mode)
-- **JavaScript** (DOM manipulation, eventos, async/await, fetch/API)
+Atualmente, meu principal foco é:
 
-Paralelamente, estudo **cibersegurança** porque acredito que toda aplicação deve entregar **segurança** e **confiabilidade** desde o início. (LGPD, ethical hacking básico, boas práticas de auth, etc.)
+* **Java** — fundamentos, métodos, classes e POO
+* **Lógica de programação**
+* **Git e GitHub**
+* Desenvolvimento de projetos para colocar em prática o que estou aprendendo
+
+Também possuo conhecimentos anteriores em **HTML, CSS e JavaScript**, que fazem parte da minha trajetória de aprendizado em desenvolvimento web.
 
 <br>
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Web dev stack" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=linux,python,bash" alt="Complementares" width="180"/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode" alt="Tecnologias" />
 </div>
 
 <br>
 
-- **Foco atual**: HTML semântico + CSS intermediário + JS básico/intermediário
-- **Paralelo**: Fundamentos de cibersegurança, redes, terminal Linux, ethical hacking introdutório
+### 📚 Em aprendizado
+
+* Java
+* Programação Orientada a Objetos
+* Git e GitHub
+* Desenvolvimento backend
+
+### 💻 Conhecimentos anteriores
+
+* HTML5
+* CSS3
+* JavaScript
 
 <br>
 
-## 📂 Projetos (em construção 🚧)
+## 🚀 Projetos
 
-- Landing pages responsivas e acessíveis
-- Apps interativos com JS puro: calculadora, to-do list, quiz, gerador de senhas seguras
-- Mini-projetos de segurança: validador de força de senha, analisador simples de URLs (phishing básico), hash checker
+Atualmente estou desenvolvendo projetos e exercícios para consolidar meus conhecimentos em programação.
 
-Todos os projetos estarão aqui no GitHub em breve. Sinta-se à vontade para fork, sugerir melhorias ou acompanhar o progresso! 😄
+Conforme avanço nos estudos, novos projetos em **Java** serão adicionados aqui, acompanhando minha evolução como desenvolvedor.
+
+<br>
+
+## 🎯 Objetivo
+
+Meu objetivo é construir uma carreira na área de desenvolvimento de software, começando por uma oportunidade de **estágio** e evoluindo continuamente através de estudos e experiência prática.
 
 <br>
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar4ugusto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/cesar4ugusto/)
 
-Obrigado por visitar!
+<br>
+
+Obrigado por visitar meu perfil! 👋
